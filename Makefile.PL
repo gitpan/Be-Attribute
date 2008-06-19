@@ -14,4 +14,6 @@ use ExtUtils::MakeMaker;
 #    'xs_cpp'	=> 'Attribute.xs',
 );
 
+die "OS unsupported" unless $^O eq "BeOS";
+
 WriteMakefile(@mm);
