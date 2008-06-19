@@ -1,6 +1,6 @@
 Revision history for Perl extension Be::attribute.
 
-0.01.1  Thu Jun 19 13:38:26 JST 2008
+0.2   Thu Jun 19 13:38:26 JST 2008
 	- Why a new version after nine years? Because I'm sick of automated
 	  testing mail.
 
